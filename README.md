@@ -13,3 +13,5 @@ Node.js: JavaScrip run-time environment that executes JavaScript code outside of
 
 And Mongoose: Simple, schema-based solution to model application.
 
+uniqid: A Unique Hexatridecimal ID generator.It will always create unique id's based on the current time, process and machine name.
+
