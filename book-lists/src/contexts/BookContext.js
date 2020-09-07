@@ -15,6 +15,17 @@ const BookContextProvider = ({ children }) => {
       title: "On The Road",
       author: "Jack Kerouac",
     },
+
+    {
+      id: 3,
+      title: "Moby Dick",
+      author: "Herman Melville",
+    },
+    {
+      id: 4,
+      title: "White Fang",
+      author: "Jack London",
+    },
   ]);
 
   const addBook = (book) => {
