@@ -17,4 +17,7 @@ uniqid: A Unique Hexatridecimal ID generator.It will always create unique id's b
 
 
 
-<iframe src="https://drive.google.com/file/d/1Rv8aieI9f9oMtny6LkAzlp_SV9mEhA2B/preview" width="640" height="480"></iframe>
+
+
+[![Reading List]]( https://drive.google.com/file/d/1Rv8aieI9f9oMtny6LkAzlp_SV9mEhA2B/view "Reading List")
+
