@@ -16,8 +16,7 @@ And Mongoose: Simple, schema-based solution to model application.
 uniqid: A Unique Hexatridecimal ID generator.It will always create unique id's based on the current time, process and machine name.
 
 
+[![Reading List](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/1Rv8aieI9f9oMtny6LkAzlp_SV9mEhA2B/view "Reading List")
 
 
-
-[![Reading List]]( https://drive.google.com/file/d/1Rv8aieI9f9oMtny6LkAzlp_SV9mEhA2B/view "Reading List")
 
