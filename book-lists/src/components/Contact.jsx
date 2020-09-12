@@ -16,8 +16,8 @@ const Contact = () => {
       <div className="divider" />
       <h6>Address:</h6>
       <ul>
-        <li>2020 Summer Games</li>
-        <li>Tokyo, Japan</li>
+        <li>Coding with Corgis</li>
+        <li>Berkeley, California</li>
       </ul>
     </div>
   );

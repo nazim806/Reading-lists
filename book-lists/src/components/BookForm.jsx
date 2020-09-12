@@ -34,7 +34,7 @@ const BookForm = () => {
               name="title"
               value={book.title}
               onChange={handleChange}
-              placeholder="e.g. Charlie and the Chocolate Factory"
+              placeholder="e.g. Harry potter and the goblet of fire"
               className="validate"
               required
             />
@@ -49,7 +49,7 @@ const BookForm = () => {
               name="author"
               value={book.author}
               onChange={handleChange}
-              placeholder="e.g. Roald Dahl"
+              placeholder="e.g. J K Rowling"
               className="validate"
               required
             />
