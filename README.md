@@ -3,13 +3,13 @@ An app like Goodreads using MERN stack where you can add new books-to-read, save
 
 The MERN stack consists of the following technologies:
 
-MongoDB: a document-based open source database.
+**MongoDB:** a document-based open source database.
 
-Express: A web application framework for Node.js.
+**Express:** A web application framework for Node.js.
 
-React: A JavaScript front-end library for building user interfaces.
+**React:** A JavaScript front-end library for building user interfaces.
 
-Node.js: JavaScrip run-time environment that executes JavaScript code outside of a browser.
+**Node.js:** JavaScrip run-time environment that executes JavaScript code outside of a browser.
 
 And Mongoose: Simple, schema-based solution to model application.
 
